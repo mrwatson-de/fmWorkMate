@@ -1,0 +1,50 @@
+fmWorkMate-Acknowledgements
+===========================
+
+Thanks to all the great people who make fmWorkMate possible by providing their software free. Thumbs up to you all! :-)
+
+---
+Plugin: Base Elements
+Company: Goya
+Contact: Nicholas Orr
+Plugin URL: http://www.goya.com.au/baseelements/plugin
+Licence text:
+
+	The plugin is distributed using the "New BSD License". Basically this means you are free to share, copy, distribute and transmit this work, and you're free to adapt it to your own projects. You can't call any derived products "BaseElements" or state that they're endorsed by Goya. And you must retain the copyright and licence in any source code you distribute and reproduce them in documentation for binary distributions.
+
+	If you'd like to use it for some other purpose, or in another way please contact us.
+
+	A better explanation, including links to the full licence and legal code is available on the creative commons website.
+
+Licence URL: http://creativecommons.org/licenses/BSD/
+
+------------------------------------
+Plugin: MBS-Plugin
+Company: MonkeyBread Software
+Contact: Christian Schmitz
+Plugin URL: http://www.mbsplugins.eu
+Licence notes:
+
+	The MBS Plugin in the fmWorkMate runtime uses MrWatson's MBS-runtime licence
+	Some MBS-Plugin functions, such as Syntax Coloring, are free to use.
+	To use other MBS functions in your own database solutions you need a licence from MonkeyBread Software.
+	See the MBS website for further information.
+
+Licence URL: http://www.monkeybreadsoftware.de/filemaker/License.shtml
+
+------------------------------------
+Service: IETF Diff Service
+Organisation: The Internet Engineering Task Force (IETF®)
+Contact: Henrik Levkowetz
+Service URL: https://tools.ietf.org/rfc
+------------------------------------
+Item: graph icon
+Item URL: http://commons.wikimedia.org/wiki/File:Complete_graph_K4_4COL.svg
+Owner: User 'MathsPoetry'
+Licence URL: http://creativecommons.org/licenses/by-sa/3.0/deed.en
+Note: We used the graph icon from 'MathsPoetry' as the basis for the Analyse->Text.tgf transformation.
+------------------------------------
+
+See the Credits in fmWorkMate for a full list.
+
+Last edited 2018-07-10 by MrW.
