@@ -3,9 +3,7 @@
 # fmWorkMate
 [Makes FileMaker Work]
 
-fmWorkMate is a power toolkit for FileMaker Developers
-
-...from MrWatson of www.mrwatson.de and fmworkmate.com
+fmWorkMate is a power toolkit for FileMaker Developers from MrWatson of [mrwatson.de][mrwatson.de] and [fmworkmate.com][fmworkmate.com]
 
 ...and it's been in development since 2008 (as a hobby alongside my 24*7 FileMaker work),
 
@@ -58,7 +56,26 @@ fmWorkMate
 1. Download fmWorkMate from [GitHub][fmWorkMate repo]
 2. Move the fmWorkMate folder into the Applications folder (recommended, but anywhere will do)
 
-3. Decide which FileMaker you wish to use to open the fmWorkMate files.
+3. Install Plugins, as necessary
+
+   - Download and Install the Plugins, if you don't already have them
+     - [Base-Elements Plugin Download](https://docs.baseelementsplugin.com/article/522-downloads)
+     - [MBS Plugin Download](https://www.monkeybreadsoftware.com/filemaker/)
+   - Licence / Register the MBS Plugin
+     - You can get a [trial licence for MBS Plugin here](https://www.monkeybreadsoftware.com/trial/trial-filemaker.shtml)
+     - If your solution does not automatically register the MBS Plugin, you can get fmWorkMate to register the plugin for you:
+       - click the (i) button, bottom right in fmWorkMate
+       - click The MBS [BYOL] button (BYOL=Bring Your Own Licence)
+       - enter your licence information
+       - press [Register MBS]
+     - If you wish to hide your MBS licence information from prying eyes...
+       -  navigate to the second slider panel
+       -  click [Store Licence] to store the current licence information
+       -  return to the first slider panel
+       -  remove your licence information
+       -  [OK]
+
+4. Decide which FileMaker you wish to use to open the fmWorkMate files.
    
    TLDR: Just open fmWorkMate.fmp12 and get on with it
    
@@ -115,7 +132,7 @@ fmWorkMate
               - Right are mission settings (try out capsule)
             - See the documentation in [fmLaunchPad][fmLaunchpad home] for details how to do that!
 
-4. You're good to go - have fun! :)
+5. You're good to go - have fun! :)
 
 ---
 ## GETTING TO KNOW the Tools
@@ -249,6 +266,7 @@ If you want to poke around and have a look at the guts, you'll have to use the '
 - [fmWorkMate repo][fmWorkMate repo]
 - [fmWorkMate bugs][fmWorkMate bugs]
 
+[fmworkmate.com]:https://fmworkmate.com
 [fmWorkMate bugs]:https://github.com/mrwatson-de/fmWorkMate/issues
 [fmWorkMate home]:https://www.fmworkmate.com/fmWorkMate
 [fmWorkMate wiki]:https://github.com/mrwatson-de/fmWorkMate/wiki
