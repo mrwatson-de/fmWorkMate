@@ -1,233 +1,173 @@
-[![fmWorkMate logo][fmWorkMate logo]][fmWorkMate home]
+[![fmWorkMate logo][]][fmWorkMate home]
 
 # fmWorkMate
 [Makes FileMaker Work]
 
 fmWorkMate is a power toolkit for FileMaker Developers from MrWatson of [mrwatson.de][mrwatson.de] and [fmworkmate.com][fmworkmate.com]
 
-...and it's been in development since 2008 (as a hobby alongside my 24*7 FileMaker work),
-
-...and it's been used everyday be myself, colleagues, and increasingly more FileMaker developers
-
-...so let's call it Version 1.0, shall we?
-
- 🥳 🎉 🥂
-
----
-
 ## Congratulations!
 You now have the FREE OPEN-SOURCE version of fmWorkMate!
 
-LOTS has changed since the last release!
+LOTS has changed in fmWorkmate!
 
-- fmWorkMate is now OPEN SOURCE :-D
-  - Not only open source, but [MIT LICENCE][LICENCE]
-  - and avaliable on [GitHub][fmWorkMate repo]
-- fmWorkMate is now simply FileMaker files.
-  - and the runtime version is no more :-/
-  - and (thus) you need to
-    - bring your own MBS licence,
-    - and download and install the [MBS-Plugin][MBS-Plugin] + [Base-Elements-Plugin][Base-Elements-Plugin] yourself.
-      - *but you've probably got hose already :-)*
+- fmWorkMate is now simply FileMaker files; the runtime version is no more ;-D
+- fmWorkMate is now OPEN SOURCE, avaliable on [GitHub][fmWorkMate repo] and under a [MIT LICENCE][LICENCE] !  👀 😃
 - There are *loads* of new functions!
-  - I don't know where to start telling!
-  - Take a peek in [fmWorkMate-Changes.txt](fmWorkMate-Changes.txt)
 
-It's a new era! ... Please help make fmWorkMate better and contribute to a power tool for all FileMaker developers everywhere!
+The consequence of this is
+
+- You'll need to bring your own [MBS licence][MBS-Plugin] [BYOL],
+- You can take a look under the hood
+- You can help make fmWorkMate a better tool - and are heartily invited to do so!
+
+It's a new era - enjoy!
 
 Happy FileMaking!
 
 MrWatson
 
-2021-06-11
+2021-10-27
 
 ![mrwatson.de logo][mrwatson.de logo]
 
-P.S. fmWorkMate is not alone ... Check out my many other [real-good free tools][mrwatson.de].
+
+## What is fmWorkMate?
+
+fmWorkMate is part of a [growing basket of tools from MrWatson][GitHub starred repos] that aim to make your FileMaker work better, more productive, more fun and colorful.
+
+![fmWorkMate Tools View][]
+
+These are the 'bits': 
+
+- `fmWorkMate` - The main Toolbox with 15+ tools - [Repo][fmWorkMate repo]
+- a function-packed extension library
+  - `fmCheckmate-XSLT library` - Over 300 extension functions for fmCheckMate - [Repo][fmCheckmate-XSLT repo]
+- 4 external tools
+  - `fmSyntaxColorizer` - separate tool to colorize your code and brighten up your life - [Repo][fmSyntaxColorizer repo]
+  - `fmAutoMate` - separate tool to integrate the power of fmWorkMate right into your script workspace - [Repo][fmAutoMate repo]
+  - `fmLaunchPad` - separate tool to launch your files - [Repo][fmLaunchPad repo]
+  - `myMateJSON` - separate tool to explore your JSON - [Repo][myMateJSON repo]
+- a FileMaker IDE Integration Module
+  - `fmScriptWorkspace` - IDE Integration Module - [Repo][fmScriptWorkspace repo]
+
+## Why use fmWorkMate & co.?
+
+`It's effective`
+
+- fmWorkMate makes your FileMaker databases work!
+
+  - *finds bugs* (Layout Analysis w. fmCheckMate-XSLT)
+  - *catches bugs* at inception (fmLogAnalyser's Bug-Off! Alarm)
+  - helps you *see bugs* by [making wrong code look wrong](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)  (fmSyntaxColorizer)
+  - lists bugs to *kill* (fmLogAnalyser ToDo list)
+  - takes you to *exactly* where the bugs are (fmScriptWorkspace)
+  - *avoids* bugs by allowing you to *generate code* (fmCheckMate fmTextMultiplier)
+    - (Better than hand coding 5% bugs into your solution!)
+  - **proves** you have no bugs (fmLogAnalyser [OK])
+
+- fmWorkMate works how you work!
+  - Here and now!
+    - fmWorkMate is designed for **immediate** use (and instant gratification 😉 )
+    - no need to wait hours for DDRs to be created and analysed
+    - just click + solve!
+  - Fast and efficient!
+    - fmWorkMate is honed for rapid and repetitive tasks
+
+
+`It's powerful`
+
+- fmWorkMate provides help in places you need them, where other tools - inc. FileMaker itself - fail:
+  - catch errors **as you make them** (fmLogAnalyser & Bug-Off Alarm)
+  - find errors in layouts - *in seconds* (fmCheckmate Layout analysis)
+  - refactor code
+    - relocate functionality to a new context (fmTextConverter)
+  - find differences in scripts
+- fmWorkMate soothes where FileMaker hurts
+  - dock that stupid debugger script window into the script workspace with a click!
+  - jump straight to that subscript *in an external file*
+  - test field calculations *without* having to add all the (default) table names back in to the data viewer.
+
+
+`It's proven`
+
+- fmWorkMate has been in development since 2008 as a hobby alongside my 24*7 FileMaker work,
+
+- It's been used daily be myself (MrWatson), colleagues, and increasingly more FileMaker developers around the world
+
+- fmWorkMate has proven itself to be a valuable tool capable of considerably increasing daily productivity and championing the quality of your FileMaker work
+
+- fmWorkMate was awarded the [FileMaker Magazin Award for Best Tool in 2018][FMM-Award 2018]
+
+  ![FMM Award 2018](docs/img/FileMaker_Magazin_Award_IMG_9704_700px_small.jpg)
+
+`It's free`
+- Always has been.
+- But now it is[ open source too][fmWorkMate repo]!
+
+`It's wild`
+
+- fmWorkMate is out of the incubator and ready to be wielded!
+
+ 🥳 🎉 🥂
+
+
 
 ---
 
 ## GETTING STARTED with fmWorkMate
 
-![fmWorkMate logo][fmWorkMate logo w100]
+To Install fmWorkMate on your machine:
 
-fmWorkMate
-
-1. Download fmWorkMate from [GitHub][fmWorkMate repo]
+1. Download the [latest release][fmWorkMate releases] of fmWorkMate from [GitHub][fmWorkMate repo]
 2. Move the fmWorkMate folder into the Applications folder (recommended, but anywhere will do)
+   - Note: If you also have any sibling tools ([fmAutoMate][fmAutoMate home],  [fmSyntaxColorizer][fmSyntaxColorizer home] or [fmLaunchPad][fmLaunchPad home]) place the folders alongside each other in order to reference these tools from within fmWorkMate
 
 3. Install Plugins, as necessary
 
-   - Download and Install the Plugins, if you don't already have them
-     - [Base-Elements Plugin Download](https://docs.baseelementsplugin.com/article/522-downloads)
+   - Download and Install the two plugins, if you don't already have them
+     - [Base-Elements Plugin Download](https://docs.baseelementsplugin.com/article/522-downloads) (free, no licence required)
      - [MBS Plugin Download](https://www.monkeybreadsoftware.com/filemaker/)
    - Licence / Register the MBS Plugin
      - You can get a [trial licence for MBS Plugin here](https://www.monkeybreadsoftware.com/trial/trial-filemaker.shtml)
-     - If your solution does not automatically register the MBS Plugin, you can get fmWorkMate to register the plugin for you:
-       - click the (i) button, bottom right in fmWorkMate
-       - click The MBS [BYOL] button (BYOL=Bring Your Own Licence)
-       - enter your licence information
-       - press [Register MBS]
+
+   - If your solution already uses and registers a licenced MBS Plugin *and* you are using fmWorkMate in the *same* FileMaker instance, the MBS Plugin does not need to be registered again.
+   - Otherwise, you can get fmWorkMate to register the MBS-Plugin when it starts:
+     - Open fmWorkMate in FileMaker and setup plugin registration
+       - Click the (i) button, bottom right in fmWorkMate
+       - Click The MBS [BYOL] button (BYOL=Bring Your Own Licence)
+       - Enter your licence information
+       - Press [Register MBS]
      - If you wish to hide your MBS licence information from prying eyes...
-       -  navigate to the second slider panel
-       -  click [Store Licence] to store the current licence information
-       -  return to the first slider panel
-       -  remove your licence information
+       -  Navigate to the second slider panel
+       -  Click [Store Licence] to store the current licence information
+       -  Return to the first slider panel
+       -  Remove your licence information
        -  [OK]
 
-4. Decide which FileMaker you wish to use to open the fmWorkMate files.
-   
-   TLDR: Just open fmWorkMate.fmp12 and get on with it
-   
+4. Launch fmWorkMate in FileMaker
    You can 
-   - either **open fmWorkMate with the same FileMaker** that you open your databases with
-     - this requires you to hop between windows (which can be a **bit of a chore**, but might lead to some great integration possibilities later on)
-     - just add fmWorkMate to your FleMaker favourites and you are good to go
-   - or **open fmWorkMate with a second FileMaker** instance/version
-     - this keeps fmWorkMate seperate from your databases, making it **easier to work with**
-     - **On Windows** you can open fmWorkMate in a second FileMaker **only with a different version of FileMaker** on your system
-     - **On Mac** there is a more elegant solution:
-       1. Create a **seperate FM-app**
-          - Duplicate your FileMaker Pro app, and rename it to 'fmWorkMate.app'
-          - Place it in the fmWorkMate Folder alongside the fmWorkMate files
-          - For added comfort, you can also replace the app's icon using the icon in the Finder
-            - See [How to change Mac app icons](https://9to5mac.com/2019/01/17/change-mac-icons/)
-          - You *could* stop here, and just open the fmWorkMate app and click the  fmWorkMate favourite...
-            - ...but we can do better than that...
-       2. Use **fmLaunchpad** (with fm19 - or fm18)
-      
-         ![fmLaunchPad logo][fmLaunchPad logo w100]
-
-         [fmLaunchPad][fmLaunchpad home] is a cool little starter file 🚀 rocket you can 'programme' to open the file you really want to open.
-
-         You'll be setup in just 3 or 4 steps:
-        - [Download fmLaunchPad from GitHub][fmLaunchPad repo] and place it next to fmWorkMate
-          - or, alternatively, place the fmLaunchPad *folder* next to the fmWorkMate *folder* in your Applications folder
-        - Setup the FileMaker starter file -> fmLaunchPad
-          - In fm19+
-            - Open your fmWorkMate.app
-            - In Preferences set the starter file to start fmLaunchPad
-            - Close it again
-            - Note: the starter file is valid for all fm18 and higher!
-          - In fm18 (if you have no fm19)
-            - While originally you could only set the starter file during installation of the FileMaker Client, it is also possible to set the preference from the command line. 
-            - See ["Setting FileMaker’s startup file from CLI" from Beezwax](https://blog.beezwax.net/2020/06/09/setting-filemaker-startup-file-from-cli/)
-        - Open your fmWorkMate App again
-          - We have lift off! 🚀
-             
-            With a bit of luck fmLaunchPad should open and automatically launch the fmWorkMate file :D
-
-            If not, fmLaunchPad might need tweaking (and in these very early days of release 1.0 it is quite likely):
-        - Tweak/Setup fmLaunchPad
-          
-           Since the FileMaker startup file setting is a global setting which applies to all FileMaker version >= 18, you will also have to set up the starting conditions for your OTHER FileMaker files
-
-          - Start fmLaunchPad again
-          - Press the Abort button to stop the mission
-          - Switch view (button top right) to see all the rocket's modules
-          - Remove, reorder or setup the rocket's modules as necessary
-            - Each module represents a different starter-mission
-              - Left is the mission's start condition
-              - Middle is the destination file you want to reach
-              - Right are mission settings (try out capsule)
-            - See the documentation in [fmLaunchPad][fmLaunchpad home] for details how to do that!
-
-5. You're good to go - have fun! :)
-
----
-## GETTING TO KNOW the Tools
-
-![fmWorkMate Tools View][fmWorkMate Tools View]
-
-Take a look at all those tools! // and that image is *old!* ;-)
-
-Or check out the [fmWorkMate homepage][fmWorkMate home]
-
-Or watch stuff on the [fmWorkMate YouTube channel][fmWorkMate tube]
-
----
-
-
-## GETTING STARTED with fmCheckMate
-
-![fmCheckMate logo][fmCheckMate logo w100]
-
-fmCheckMate is the core tool of the toolbox.
-
-You can
-
-- **convert** FileMaker objects on the **clipbard to/from FileMaker** (fmxmlsnippet) XML
-  - which alone is *great* for transfering code to/from a remote computer!
-- search & replace the XML 
-  - **rename variables**
-  - **move code to a different layout context**
-- view / edit the XML.
-  - in the built-in XML-editor, or
-  - in an external editor
-- and - with the fmCheckMate-XSLT Library - you can perform hundreds of (quite frankly amazing) functions to analyse, change and transform your XML. (See below)
-
-### fmCheckMate Modes
-
-fmCheckMate has some different modes of operation
-
-- Convert/Transfer
-  - which just converts the clipboard, but does not display the XML
-- Internal Editor (small or large)
-  - for quick editing & transforming of your XML
-- External Editor
-  - for power-editing in your preferred editor
-- Analysis mode
-  - for quickly selecting appropriate analysis functions with 
-
-
-### fmCheckMate Setings
-
-Open the Settings (CMD+9) to choose the mode.
-
-Another CMD+9 takes you to the detailed settings.
-
-There you can
-
-- turn tips on/off
-- define window size / behaviour
-- etc.
-
+   1. Open fmWorkMate in FileMaker **alongside your databases**
+      - The quickest way to get started
+      - Has some advanages to interact between fmWorkMate + your files (see [fmAutoMate][fmAutoMate])
+      - However, can sometimes be difficult to navigte between database + tool windows 
+   2. Open fmWorkMate **in a second FileMaker version/instance**
+      - This has the advantage of being able to switch between databases and tools easily
+      - (Did you know you it is possible to just duplicate the FileMaker app on Mac?)
+   3. Use **fmLaunchpad with a customised fmWorkMate.app** 
+      - [fmLaunchPad][fmLaunchPad home] makes it possible to start different FileMaker solutions in different FileMaker apps
+      - This takes a [little setting up][fmLaunchPad setup fmWorkMate], but provides a pleasant runtime-like experience
 
 
 ---
+## Using fmWorkMate
 
-## GETTING STARTED with the fmCheckMate-XSLT Library
+Feel free to click around to get to know the tools.
 
-![fmCheckMate-XSLT logo][fmCheckMate-XSLT logo w100]
-
-1. Install the fmCheckMate XSLT Librabry
-   - Download the fmCheckMate XSLT Librabry from [GitHub][fmCheckMate XSLT repo]
-   - Move the fmCheckMate folder into your Documents folder
-2. Load the fmCheckMate XSLT Librabry into fmCheckMate
-   - The first time you open the XSLT Chooser (by pressing the [T] button in the internal editor / CMD+T(ransform)) the fmCheckMate XSLT Library should be loaded into fmCheckMate
-   - If not, use the reload button (or CMD+8)
-3. Transform your Code
-   - Copy some FileMaker objects (CMD+C)
-   - Start fmWorkMate and choose fmCheckMate (CMD+2)
-   - Convert the Clipboard (Big button or CMD+ALT+C(onvert) or CMD+2)
-   - In the XSML-editor layout press the [T] button (or press CMD+T(ransform))
-   - Choose a function
-     - Change view & Browse the functions, or
-     - Search by name
-     - Filter by type
-    - Press Return to Apply
-
-
-  
-
----
-
-[More is coming]
+For a more guided start, see the [fmWorkMate documentation](docs/README.md).
 
 ---
 
 ## KNOWN ISSUES
-
 
 - Not everything is tested (but core stuff is *used* every day).
 
@@ -244,50 +184,67 @@ There you can
 
 Please help improve fmWorkMate for us all.
 
-Got an issue?
+### Got an issue?
 
-Let us know -> [issues on GitHub][fmWorkMate bugs].
+- Let us know -> [issues on GitHub][fmWorkMate issues].
+
+### Got a question? Need Help?
+
+- Come and discuss stuff in the [fmWorkMate community][fmWorkMate discussions]
+- (or drop mrwatson a line direct!)
 
 ---
 
 
-## POKING around
+## POKE around
 
-I nearly forgot.
-
-If you want to poke around and have a look at the guts, you'll have to use the 'secret' user/password: admin/admin
+I nearly forgot: If you want to poke around and have a look at the guts of fmWorkMate, you'll need the 'secret' user/password: admin/admin
 
 ---
 
 ## Links
 
-- [fmWorkMate home][fmWorkMate home]
-- [fmWorkMate wiki][fmWorkMate wiki]
-- [fmWorkMate repo][fmWorkMate repo]
-- [fmWorkMate bugs][fmWorkMate bugs]
+- fmWorkMate
+  - [fmWorkMate home][fmWorkMate home]
+  - [fmWorkMate repo][fmWorkMate repo]
+  - [fmWorkMate discussions][fmWorkMate discussions]
+  - [fmWorkMate wiki][fmWorkMate wiki]
+  - [fmWorkMate issues][fmWorkMate issues]
+- Related Tools
+  - [fmAutoMate][fmAutoMate home]
+  - [fmLaunchpad][fmLaunchpad home]
+  - [fmSyntaxColorizer][fmSyntaxColorizer home]
 
-[fmworkmate.com]:https://fmworkmate.com
-[fmWorkMate bugs]:https://github.com/mrwatson-de/fmWorkMate/issues
-[fmWorkMate home]:https://www.fmworkmate.com/fmWorkMate
-[fmWorkMate wiki]:https://github.com/mrwatson-de/fmWorkMate/wiki
-[fmWorkMate repo]:https://github.com/mrwatson-de/fmWorkMate
-[fmWorkMate logo]:fmWorkMate_ICON_200x200_sm.png
-[fmWorkMate logo w100]:https://imageprocessor.digital.vistaprint.com/crop/0,0,128x128/maxWidth/100/https://uploads.documents.cimpress.io/v1/uploads/ad76e3a4-92d7-4851-a8a4-7e7f88b8f159~110/original?tenant=vbu-digital
-[fmWorkMate Tools View]:https://imageprocessor.digital.vistaprint.com/crop/0,0,420x1332/maxWidth/100/https://uploads.documents.cimpress.io/v1/uploads/db4884b9-c073-467e-9cb8-f2c136ba13cf~110/original?tenant=vbu-digital
-[fmWorkmate tube]:https://www.youtube.com/channel/UCZk3uKObkoUT_x2mOV35Kxw
-
-[MBS-Plugin]:https://www.monkeybreadsoftware.com/filemaker/
 [Base-Elements-Plugin]:https://docs.baseelementsplugin.com/article/522-downloads
-[mrwatson.de logo]:www.mrwatson.de_neon_128.png
-[mrwatson.de]:http://www.mrwatson.de
-
+[fmAutoMate home]:https://www.fmworkmate.com/fmautomate
+[fmAutoMate repo]:https://github.com/mrwatson-de/fmAutoMate
+[fmCheckMate-XSLT home]:https://www.fmworkmate.com/fmcheckmate-xslt
+[fmCheckMate-XSLT repo]:https://github.com/mrwatson-de/fmCheckMate
 [fmLaunchpad home]:https://www.fmworkmate.com/fmLaunchPad
 [fmLaunchPad logo w100]:https://imageprocessor.digital.vistaprint.com/crop/0,0,256x256/maxWidth/100/https://uploads.documents.cimpress.io/v1/uploads/4121d384-3011-46ac-ba5d-51f7d4aefa2e~110/original?tenant=vbu-digital
 [fmLaunchPad repo]:https://github.com/mrwatson-de/fmLaunchPad
-
-[fmCheckMate logo w100]:https://imageprocessor.digital.vistaprint.com/crop/0,0,1562x992/maxWidth/100/https://uploads.documents.cimpress.io/v1/uploads/f751064a-5344-49a0-b891-f838b5318889~110/original?tenant=vbu-digital
-
-[fmCheckMate XSLT home]:https://www.fmworkmate.com/fmcheckmate-xslt
-[fmCheckMate XSLT repo]:https://github.com/mrwatson-de/fmCheckMate
-[fmCheckMate-XSLT logo w100]:https://imageprocessor.digital.vistaprint.com/crop/0,0,426x365/maxWidth/100/https://uploads.documents.cimpress.io/v1/uploads/135c8327-b2ee-4d68-a1a8-c93d15ed02fa~110/original?tenant=vbu-digital
+[fmLaunchPad setup fmWorkMate]:Setting_up_fmWorkMate_with_fmLaunchPad.md
+[FMM-Award 2018]:https://filemaker-magazin.de/magazin/fmm-award-preistraeger/
+[fmScriptWorkspace repo]:https://github.com/mrwatson-de/fmScriptWorkspace
+[fmSyntaxColorizer home]:https://www.fmworkmate.com/fmsyntaxcolorizer
+[fmSyntaxColorizer repo]:https://github.com/mrwatson-de/fmSyntaxColorizer
+[fmWorkMate discussions]:https://github.com/mrwatson-de/fmWorkMate/discussions
+[fmWorkMate home]:https://www.fmworkmate.com/fmWorkMate
+[fmWorkMate issues]:https://github.com/mrwatson-de/fmWorkMate/issues
+[fmWorkMate logo w100]:https://imageprocessor.digital.vistaprint.com/crop/0,0,128x128/maxWidth/100/https://uploads.documents.cimpress.io/v1/uploads/ad76e3a4-92d7-4851-a8a4-7e7f88b8f159~110/original?tenant=vbu-digital
+[fmWorkMate logo]:docs/img/fmWorkMate_ICON_200x200_sm.png
+[fmWorkMate releases]:https://github.com/mrwatson-de/fmWorkMate/releases
+[fmWorkMate repo]:https://github.com/mrwatson-de/fmWorkMate
+[fmWorkMate Tools View]:docs/img/fmWorkMate-long-view-2021-07-27.png
+[fmWorkmate tube]:https://www.youtube.com/channel/UCZk3uKObkoUT_x2mOV35Kxw
+[fmWorkMate wiki]:https://github.com/mrwatson-de/fmWorkMate/wiki
+[fmworkmate.com]:https://fmworkmate.com
+[GitHub starred repos]:https://github.com/mrwatson-de?tab=repositories&q=&type=source&language=&sort=stargazers
 [LICENCE]:LICENCE.txt
+[MBS-Plugin]:https://www.monkeybreadsoftware.com/filemaker/
+[mrwatson.de logo]:www.mrwatson.de_neon_128.png
+[mrwatson.de]:http://www.mrwatson.de
+[myMateJSON repo]:https://github.com/mrwatson-de/myMateJSON
+[PLACEHOLDER TEMPLATES]:https://useTheFollowingTemplates
+[ToolName home]:https://www.fmworkmate.com/toolname
+[ToolName repo]:https://github.com/mrwatson-de/ToolName
