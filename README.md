@@ -12,7 +12,7 @@ LOTS has changed in fmWorkmate!
 
 - fmWorkMate is now simply FileMaker files; the runtime version is no more ;-D
 - fmWorkMate is now OPEN SOURCE, avaliable on [GitHub][fmWorkMate repo] and under a [MIT LICENCE][LICENCE] !  👀 😃
-- There are *loads* of new functions!
+- There are *loads* of new functions!(1)
 
 The consequence of this is
 
@@ -26,7 +26,9 @@ Happy FileMaking!
 
 MrWatson
 
-2021-10-27
+2021-12-13
+
+(1) For the latest changes check the commit meeages on GitHub, or the first script in each file documents all changes.
 
 ![mrwatson.de logo][mrwatson.de logo]
 
