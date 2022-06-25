@@ -5,10 +5,12 @@
 
 fmWorkMate is a power toolkit for FileMaker Developers from MrWatson of [mrwatson.de][mrwatson.de] and [fmworkmate.com][fmworkmate.com]
 
-## Congratulations!
-You now have the FREE OPEN-SOURCE version of fmWorkMate!
+  ![Winner of the FileMaker Magazine Award for best FileMaker Tool 2018][FMM-Award 2018]
 
-LOTS has changed in fmWorkmate!
+## Congratulations!
+You have found fmWorkMate, the award-winning, free, open-source productivity toolkit for FileMaker developers from [MrWatson]!
+
+LOTS has changed in fmWorkMate!
 
 - fmWorkMate is now simply FileMaker files; the runtime version is no more ;-D
 - fmWorkMate is now OPEN SOURCE, avaliable on [GitHub][fmWorkMate repo] and under a [MIT LICENCE][LICENCE] !  👀 😃
@@ -54,7 +56,9 @@ These are the 'bits':
 
 ## Why use fmWorkMate & co.?
 
-`It's effective`
+Simple!
+
+### `It's effective`
 
 - fmWorkMate makes your FileMaker databases work!
 
@@ -76,7 +80,7 @@ These are the 'bits':
     - fmWorkMate is honed for rapid and repetitive tasks
 
 
-`It's powerful`
+### `It's powerful`
 
 - fmWorkMate provides help in places you need them, where other tools - inc. FileMaker itself - fail:
   - catch errors **as you make them** (fmLogAnalyser & Bug-Off Alarm)
@@ -90,7 +94,7 @@ These are the 'bits':
   - test field calculations *without* having to add all the (default) table names back in to the data viewer.
 
 
-`It's proven`
+### `It's proven`
 
 - fmWorkMate has been in development since 2008 as a hobby alongside my 24*7 FileMaker work,
 
@@ -98,15 +102,15 @@ These are the 'bits':
 
 - fmWorkMate has proven itself to be a valuable tool capable of considerably increasing daily productivity and championing the quality of your FileMaker work
 
-- fmWorkMate was awarded the [FileMaker Magazin Award for Best Tool in 2018][FMM-Award 2018]
+- fmWorkMate was awarded the [FileMaker Magazin Award for Best Tool in 2018][FMM-Awards 2018]
 
-  ![FMM Award 2018](docs/img/FileMaker_Magazin_Award_IMG_9704_700px_small.jpg)
+  ![FMM-Award 2018]
 
-`It's free`
+### `It's free`
 - Always has been.
 - But now it is[ open source too][fmWorkMate repo]!
 
-`It's wild`
+### `It's wild`
 
 - fmWorkMate is out of the incubator and ready to be wielded!
 
@@ -226,7 +230,9 @@ I nearly forgot: If you want to poke around and have a look at the guts of fmWor
 [fmLaunchPad logo w100]:https://imageprocessor.digital.vistaprint.com/crop/0,0,256x256/maxWidth/100/https://uploads.documents.cimpress.io/v1/uploads/4121d384-3011-46ac-ba5d-51f7d4aefa2e~110/original?tenant=vbu-digital
 [fmLaunchPad repo]:https://github.com/mrwatson-de/fmLaunchPad
 [fmLaunchPad setup fmWorkMate]:Setting_up_fmWorkMate_with_fmLaunchPad.md
-[FMM-Award 2018]:https://filemaker-magazin.de/magazin/fmm-award-preistraeger/
+[FMM-Awards 2018]:https://filemaker-magazin.de/magazin/fmm-award-preistraeger/
+[FMM-Award 2018]:docs/img/FileMaker_Magazin_Award_IMG_9704_700px_small.jpg
+
 [fmScriptWorkspace repo]:https://github.com/mrwatson-de/fmScriptWorkspace
 [fmSyntaxColorizer home]:https://www.fmworkmate.com/fmsyntaxcolorizer
 [fmSyntaxColorizer repo]:https://github.com/mrwatson-de/fmSyntaxColorizer
@@ -244,6 +250,7 @@ I nearly forgot: If you want to poke around and have a look at the guts of fmWor
 [GitHub starred repos]:https://github.com/mrwatson-de?tab=repositories&q=&type=source&language=&sort=stargazers
 [LICENCE]:LICENCE.txt
 [MBS-Plugin]:https://www.monkeybreadsoftware.com/filemaker/
+[MrWatson]:http://www.mrwatson.de
 [mrwatson.de logo]:www.mrwatson.de_neon_128.png
 [mrwatson.de]:http://www.mrwatson.de
 [myMateJSON repo]:https://github.com/mrwatson-de/myMateJSON
