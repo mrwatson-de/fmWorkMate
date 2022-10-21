@@ -120,7 +120,7 @@ Simple!
 
 ---
 
-## GETTING STARTED with fmWorkMate
+## Installing fmWorkMate
 
 To Install fmWorkMate on your machine:
 
