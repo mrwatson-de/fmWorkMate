@@ -122,7 +122,7 @@ Simple!
 
 ## Installing fmWorkMate
 
-To Install fmWorkMate on your machine:
+### To Install fmWorkMate on your Mac:
 
 1. Download the [latest release][fmWorkMate releases] of fmWorkMate from [GitHub][fmWorkMate repo]
 2. Move the fmWorkMate folder into the Applications folder (recommended, but anywhere will do)
@@ -163,6 +163,15 @@ To Install fmWorkMate on your machine:
       - [fmLaunchPad][fmLaunchPad home] makes it possible to start different FileMaker solutions in different FileMaker apps
       - This takes a [little setting up][fmLaunchPad setup fmWorkMate], but provides a pleasant runtime-like experience
 
+### To Install fmWorkMate on your Windows PC
+
+- Either (for limited, but tried and tested, functionality - since fmWorkMate has not been developed/tested further on Windows since the demise of runtimes):
+  - Download and install the old [fmWorkMate Windows Runtime](https://github.com/mrwatson-de/fmWorkMate-Archive-Win) for basic functionality
+  - You can also install fmCheckMate-XSLT
+- Or (for a better future for all Windows FM-Devs - but maybe not such a good inital experience  for yourself):
+  - Help [contribute](CONTRIBUTING.md) to getting fmWorkmate running on windows!
+  - Download and install fmWorkMate as described below
+  - Test it, log [issues here in GitHub](https://github.com/mrwatson-de/fmWorkMate/issues) and join in!
 
 ---
 ## Using fmWorkMate
