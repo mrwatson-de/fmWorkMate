@@ -196,20 +196,9 @@ For a more guided start, see the [fmWorkMate documentation](docs/README.md).
 
 ## GET INVOLVED
 
-
-Please help improve fmWorkMate for us all.
-
-### Got an issue?
-
-- Let us know -> [issues on GitHub][fmWorkMate issues].
-
-### Got a question? Need Help?
-
-- Come and discuss stuff in the [fmWorkMate community][fmWorkMate discussions]
-- (or drop mrwatson a line direct!)
+Please help improve fmWorkMate for us all. See [CONTRIBUTING][contribute]
 
 ---
-
 
 ## POKE around
 
