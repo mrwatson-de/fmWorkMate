@@ -12,16 +12,23 @@ Particularly
   - or documenting use cases
   - or making videos
 - Issues
-  - Found a bug? Create an [issue](https://github.com/mrwatson-de/fmWorkMate/issues)
-  - Got an idea? Create an [issue](https://github.com/mrwatson-de/fmWorkMate/issues)
-  - Missing  some documentation? Create an [issue](https://github.com/mrwatson-de/fmWorkMate/issues)
+  - Found a bug? Let us know! Create an [issue](https://github.com/mrwatson-de/fmWorkMate/issues)
+  - Got an idea? Let us know! Create an [issue](https://github.com/mrwatson-de/fmWorkMate/issues)
+  - Missing  some documentation? Let us know! Create an [issue](https://github.com/mrwatson-de/fmWorkMate/issues)
 - Spreading the word
   - by mouth
   - by social media
   - by screencast
 
-Feedback, Discussion, Ideas? -> bring it on!
+
+### Got a question? Need Help? Feedback? Discussion? Ideas?
+
+- bring it on!
+- Come and discuss stuff in the [fmWorkMate community][fmWorkMate discussions]
+- …or drop mrwatson a line direct!
 
 Tx
 
 MrWatson
+
+[fmWorkMate discussions]:https://github.com/mrwatson-de/fmWorkMate/discussions
