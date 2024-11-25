@@ -1,4 +1,7 @@
 YYYYMMDD	Module	Version	Who	Changes
+20241126	fmSimpleCalculator	1.1	@mrwatson-de	Prepare DDR
+20241125	fmWorkMate	1.17.2	@mrwatson-de	- Fix fmMetaMate Icon & Launch - Fix fmLaunchPad to contain a rocket on release
+20241125	fmMetaMate	0.2.1	@mrwatson-de	- Fix fmMetaMate Icon
 20241122	fmTextMultiplier	1.2	@mrwatson-de	- Improve Help & Examples - Release with Examples already created
 20241122	fmTextConverter	1.3	@mrwatson-de	- Improve Help & Examples - Release with Examples already created
 20241121	fmWorkMate	1.17.1	@mrwatson-de	- Fix GitHub name to @mrwatson-de
