@@ -122,7 +122,7 @@ Simple!
 
 ## Installing fmWorkMate
 
-To Install fmWorkMate on your machine:
+### To Install fmWorkMate on your Mac:
 
 1. Download the [latest release][fmWorkMate releases] of fmWorkMate from [GitHub][fmWorkMate repo]
 2. Move the fmWorkMate folder into the Applications folder (recommended, but anywhere will do)
@@ -163,6 +163,15 @@ To Install fmWorkMate on your machine:
       - [fmLaunchPad][fmLaunchPad home] makes it possible to start different FileMaker solutions in different FileMaker apps
       - This takes a [little setting up][fmLaunchPad setup fmWorkMate], but provides a pleasant runtime-like experience
 
+### To Install fmWorkMate on your Windows PC
+
+- Either (for limited, but tried and tested, functionality - since fmWorkMate has not been developed/tested further on Windows since the demise of runtimes):
+  - Download and install the old [fmWorkMate Windows Runtime] for basic functionality
+  - You can also install fmCheckMate-XSLT
+- Or (for a better future for all Windows FM-Devs - but maybe not such a good inital experience  for yourself):
+  - Help [contribute] to getting fmWorkmate running on windows!
+  - Download and install fmWorkMate as for mac
+  - Test it, log [issues here in GitHub](https://github.com/mrwatson-de/fmWorkMate/issues) and [join in][contribute]!
 
 ---
 ## Using fmWorkMate
@@ -187,20 +196,9 @@ For a more guided start, see the [fmWorkMate documentation](docs/README.md).
 
 ## GET INVOLVED
 
-
-Please help improve fmWorkMate for us all.
-
-### Got an issue?
-
-- Let us know -> [issues on GitHub][fmWorkMate issues].
-
-### Got a question? Need Help?
-
-- Come and discuss stuff in the [fmWorkMate community][fmWorkMate discussions]
-- (or drop mrwatson a line direct!)
+Please help improve fmWorkMate for us all. See [CONTRIBUTING][contribute]
 
 ---
-
 
 ## POKE around
 
@@ -222,6 +220,7 @@ I nearly forgot: If you want to poke around and have a look at the guts of fmWor
   - [fmSyntaxColorizer][fmSyntaxColorizer home]
 
 [Base-Elements-Plugin]:https://docs.baseelementsplugin.com/article/522-downloads
+[contribute]:CONTRIBUTING.md
 [fmAutoMate home]:https://www.fmworkmate.com/fmautomate
 [fmAutoMate repo]:https://github.com/mrwatson-de/fmAutoMate
 [fmCheckMate-XSLT home]:https://www.fmworkmate.com/fmcheckmate-xslt
@@ -246,6 +245,7 @@ I nearly forgot: If you want to poke around and have a look at the guts of fmWor
 [fmWorkMate Tools View]:docs/img/fmWorkMate-long-view-2021-07-27.png
 [fmWorkmate tube]:https://www.youtube.com/channel/UCZk3uKObkoUT_x2mOV35Kxw
 [fmWorkMate wiki]:https://github.com/mrwatson-de/fmWorkMate/wiki
+[fmWorkMate Windows Runtime]:https://github.com/mrwatson-de/fmWorkMate-Archive-Win
 [fmworkmate.com]:https://fmworkmate.com
 [GitHub starred repos]:https://github.com/mrwatson-de?tab=repositories&q=&type=source&language=&sort=stargazers
 [LICENCE]:LICENCE.txt
