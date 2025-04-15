@@ -1,4 +1,36 @@
 YYYYMMDD	Module	Version	Who	Changes
+20250409	fmCheckMate	1.4.1	@mrwatson-de	- Improve Error handling of XSLT file to distinguish path problems from XML problems
+20250327	fmWorkMate	1.19	@mrwatson-de	- Close #110: Parity of functions and Keyboard Shortcuts between fmCheckMate & fmTextDiff
+20250327	fmTextDiff	1.10	@mrwatson-de	- Add buttons to sort texts (Fix #111)
+20250327	fmCheckMate	1.4	@mrwatson-de	- Add Print and Diff transformations for Value Lists - Close #110: Parity of functions and Keyboard Shortcuts between fmCheckMate & fmTextDiff
+20250326	fmTextDiff	1.9	@mrwatson-de	- Add ability to search and replace or clear the currently highlighted difference in the left or right texts to help quickly get rid of new Loop [ Flush: Always ] attribute - Fix Reset diff output when texts identical
+20250325	fmDBAnalyser	1.0	@mrwatson-de	- Add BaseTable analysis - Add ScriptNames Sorted - Add option to include fmDBAnalyser in the analysis - Improve UX to switch between LayoutField and Layout Object vioew - Fix sorted lists to not include padding - Fix AppleScript to get current layout field - Fix LayoutObjects to not show a leading blank line - Optimise the app menu so that ⌘4 + ⌘4 from fmWorkMate now jumps straight to the most useful function: table selection for relationship analysis - With those improvements we can call fmDBAnalyser grown up and v1.0 ready!
+20250224	fmKillDefaultFields	1.1	@mrwatson-de	- Fix Folder Path and file name - Add Folder path and button to open folder
+20250218	fmWorkMate	1.18	@mrwatson-de	- Improve workflow around getting tools - Add `ext` marker to external tools - Improve tool list to show missing tools as italic - Improve automatic download to default to latest release - Add card window to help list to show tool information - Improve Reset Window to use full desktop height every second time - Update fmIDE 0.41
+20250218	fmUrlDecode	0.2.1	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmTextSeries	1.0.2	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmTextMultiplier	1.2.2	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmTextDiff	1.8.3	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmTextConverter	1.3.2	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmSimpleCalculator	1.1.1	@mrwatson-de	fmIDE 0.41 + Typo
+20250218	fmPluginMate	0.9.16	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmPasteMate	1.0.1	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmModifierKeys	1.0.1	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmMetaMate	0.2.2	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmLogAnalyser	0.9.45	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmLatencyMeter	0.3.4	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmKillDefaultFields	1.0.2	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmKeyPress	1.0.1	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmDBAnalyser	0.9.16	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmClipboardViewer	1.0.1	@mrwatson-de	- Update fmIDE 0.41
+20250218	fmCheckMate	1.3.1	@mrwatson-de	- Update fmIDE 0.41
+20250214	fmLogAnalyser	0.9.44	@mrwatson-de	- Greatly improve UX - popover to show entry text clearly - simplified keyboard navigation using up + down arrows, space + return + enter + modifier keys to navigate records, view the text and mark records as OK / cancelled / not OK - improve the forgotten add context button - move to the more meaningful summary area bottom right - stay in same record - Add (experimental) better support for calculations with multiple tabs - up to 11 tabs supported - Fix multiline calculation detection and merging - Fix junk fields in import (and hopefiully performance)
+20241213	fmWorkMate	1.17.4	@mrwatson-de	- Activate FileMaker only if necessary
+20241213	fmTextSeries	1.0.1	@mrwatson-de	- Activate FileMaker only if necessary
+20241213	fmTextMultiplier	1.2.1	@mrwatson-de	- Activate FileMaker only if necessary
+20241213	fmTextDiff	1.8.2	@mrwatson-de	- Activate FileMaker only if necessary
+20241213	fmTextConverter	1.3.1	@mrwatson-de	- Activate FileMaker only if necessary
+20241126	fmWorkMate	1.17.3	@mrwatson-de	- Tweak Get Me on GitHub icon
 20241126	fmSimpleCalculator	1.1	@mrwatson-de	Prepare DDR
 20241125	fmWorkMate	1.17.2	@mrwatson-de	- Fix fmMetaMate Icon & Launch - Fix fmLaunchPad to contain a rocket on release
 20241125	fmMetaMate	0.2.1	@mrwatson-de	- Fix fmMetaMate Icon
