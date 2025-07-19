@@ -24,7 +24,7 @@ The consequence of this is
 
 It's a new era - enjoy!
 
-Check out the new website [fmworkmate.com](fmworkmate.com) for loads more information.
+Check out the new website [fmworkmate.com](https://fmworkmate.com) for loads more information.
 
 Happy FileMaking!
 
