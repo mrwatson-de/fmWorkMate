@@ -13,7 +13,7 @@ You have found fmWorkMate, the award-winning, free, open-source productivity too
 LOTS has changed in fmWorkMate!
 
 - fmWorkMate is now simply FileMaker files; the runtime version is no more ;-D
-- fmWorkMate is now OPEN SOURCE, avaliable on [GitHub][fmWorkMate repo] and under a [MIT LICENCE][LICENCE] !  👀 😃
+- fmWorkMate is now OPEN SOURCE, available on [GitHub][fmWorkMate repo] and under a [MIT LICENCE][LICENCE] !  👀 😃
 - There are *loads* of new functions!(1)
 
 The consequence of this is
